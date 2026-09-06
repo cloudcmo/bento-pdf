@@ -1,1 +1,0 @@
-import{n as e,t}from"./style-BPDwOBPD.js";document.addEventListener(`DOMContentLoaded`,()=>{t({icons:e})});
